@@ -136,3 +136,4 @@ tracker.opentorrent.top
 tracker.ghostchu-services.top
 tracker.gcrenwp.top
 tracker.dump.cl
+utracker.ghostchu-services.top
