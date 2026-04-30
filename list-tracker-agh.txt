@@ -132,3 +132,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.bt4g.com:443/announce
 https://tr.nyacat.pw:443/announce
+tracker.opentorrent.top
+tracker.ghostchu-services.top
+tracker.gcrenwp.top
+tracker.dump.cl
